@@ -1,7 +1,7 @@
 {% set version = "0.8.1" %}
 
 package:
-  name: python-simplegeneric
+  name: simplegeneric
   version: {{ version }}
 
 source:
