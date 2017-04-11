@@ -3,7 +3,7 @@ About simplegeneric
 
 Home: http://cheeseshop.python.org/pypi/simplegeneric
 
-Package license: Zope Public License
+Package license: Zope Public
 
 Feedstock license: BSD 3-Clause
 
